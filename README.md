@@ -14,7 +14,7 @@ You can find more information on the game website.
 
 - [YAŞAR GENÇER](https://github.com/YasarGencer "YAŞAR GENÇER")
 
-- [BERKAY DEMIRKOL]
+- [BERKAY DEMIRKOL](https://github.com/berkaydmrkl "BERKAY DEMIRKOL")
 
 ### Game Screenshots
 
