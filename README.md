@@ -17,9 +17,9 @@ You can find more information on the game website.
 
 <h1 align="center">Game Team</h1>
 
-- [YAŞAR GENÇER](https://github.com/YasarGencer "YAŞAR GENÇER")
+- [YAŞAR GENÇER](https://github.com/YasarGencer "YAŞAR GENÇER") as Game Developer
 
-- [BERKAY DEMIRKOL](https://github.com/berkaydmrkl "BERKAY DEMIRKOL")
+- [BERKAY DEMIRKOL](https://github.com/berkaydmrkl "BERKAY DEMIRKOL") as Game Developer
 
 <h1 align="center">Game Screenshot</h1>
 
